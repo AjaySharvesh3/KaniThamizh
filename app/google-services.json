@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "603154592662",
+    "firebase_url": "https://kanitamilperavai3.firebaseio.com",
+    "project_id": "kanitamilperavai3",
+    "storage_bucket": "kanitamilperavai3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603154592662:android:9704cb44fd926a03",
+        "android_client_info": {
+          "package_name": "alphawolf.wolfpack.ajaysharvesh.kanithamizh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603154592662-99bcubs48mbg3vq6fmc4v4nf73tnscvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alphawolf.wolfpack.ajaysharvesh.kanithamizh",
+            "certificate_hash": "b40ebb8565f117eee5366f54e8b7092c71235567"
+          }
+        },
+        {
+          "client_id": "603154592662-chkc41k56se598vv0m1idv0ecsbfa17p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJKWbQqIJELpDuK2g4tB0chgJ74kMVX6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603154592662-chkc41k56se598vv0m1idv0ecsbfa17p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

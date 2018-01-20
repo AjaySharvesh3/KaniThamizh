@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name"><![CDATA[கனி தமிழ் பேரவை]]></string>
+    <string name="tamilWord"><![CDATA[ மருத்துவரின் பெயர் ]]></string>
+    <string name="welcome"><![CDATA[வணக்கம்]]></string>
+    <string name="welcomeToKaniTamil">Welcome to Kani Tamil</string>
+    <string name="fewLinesAboutApp">Few Lines about this app and some details for this app.</string>
+    <string name="registerBtn">Register Here</string>
+    <string name="forgotPassword">Reset Code</string>
+    <string name="email"><![CDATA[ Email]]></string>
+    <string name="password"><![CDATA[ Passcode]]></string>
+    <string name="signin"><![CDATA[உள்நுழைக]]>\n<![CDATA[Sign in >>]]></string>
+    <string name="signup"><![CDATA[பதிவு செய்க]]>\n<![CDATA[Sign up >>]]></string>
+    <string name="errormessageforpassword">Please enter more than 6 characters</string>
+    <string name="authFailed">Authentication Failed!</string>
+    <string name="register">Register Here</string>
+    <string name="login"><![CDATA[Sign in]]></string>
+    <string name="back"><![CDATA[<< Back]]></string>
+    <string name="forgotcode"><![CDATA[Forgot Passcode]]></string>
+    <string name="changeCode"><![CDATA[Change Code]]></string>
+
+    <string name="logout"><![CDATA[Sign out]]></string>
+
+    <string name="settings"><![CDATA[அமைப்புகள்]]></string>
+    <string name="settings1"><![CDATA[Settings]]></string>
+    <string name="settings2"><![CDATA[The setting is both the time and geographic location within a narrative or within a work of fiction. A literary element, the setting helps initiate the main backdrop and mood for a story. Setting has been referred to as story world [1] or milieu to include a context (especially society) beyond the immediate surroundings of the story. Elements of setting may include culture, historical period, geography, and hour. Along with the plot, character, theme, and style, setting is considered one of the fundamental components of fiction.]]></string>
+    <string name="settings3"><![CDATA[Options]]></string>
+    <string name="settings4"><![CDATA[Radio Button]]></string>
+    <string name="settings5"><![CDATA[Check Box]]></string>
+    <string name="settings6"><![CDATA[Done]]></string>
+    <string name="settings7"><![CDATA[Enable Night Mode]]></string>
+    <string name="settings8"><![CDATA[Night Mode]]></string>
+
+    <string name="kuralkal"><![CDATA[குறள்கள்]]></string>
+    <string name="kuralkal1"><![CDATA[Kuralgal]]></string>
+
+    <string name="athikaram"><![CDATA[அதிகாரங்கள்]]></string>
+    <string name="athikaram1"><![CDATA[Athikarangal]]></string>
+
+    <string name="varalaru"><![CDATA[வரலாறு]]></string>
+    <string name="varalaru1"><![CDATA[History]]></string>
+
+    <string name="signout"><![CDATA[வெளியேறு]]></string>
+    <string name="signout1"><![CDATA[Sign out]]></string>
+
+    <string name="araththupal"><![CDATA[அறத்துப்பால்]]></string>
+    <string name="porutpal"><![CDATA[பொருட்பால்]]></string>
+    <string name="kamathupal"><![CDATA[காமத்துப்பால்]]></string>
+
+    <string name="kuralOne"><![CDATA[குறள் #1: ]]></string>
+
+    <string name="tamilArtham"><![CDATA[பொருளின் தமிழ்: ]]></string>
+
+    <string name="araththupalKuralOne"><![CDATA[அகர முதல எழுத்தெல்லாம் ஆதி]]>\n<![CDATA[பகவன் முதற்றே உலகு]]></string>
+    <string name="kural1tamil"><![CDATA[]]></string>
+</resources>

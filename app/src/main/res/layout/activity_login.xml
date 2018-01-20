@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="alphawolf.wolfpack.ajaysharvesh.kanithamizh.Registrations.LoginActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        android:orientation="vertical"
+        android:padding="25dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/welcomeToKaniTamil"
+            android:textColor="@color/white"
+            android:textSize="30sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:text="@string/fewLinesAboutApp"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginTop="50dp">
+
+            <Button
+                android:id="@+id/regBtn"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content"
+                android:layout_width="135dp"
+                android:layout_margin="7dp"
+                android:background="@drawable/buttonstyle1"
+                android:text="@string/registerBtn"/>
+
+            <Button
+                android:id="@+id/resetCode"
+                android:layout_height="wrap_content"
+                android:layout_width="135dp"
+                android:layout_margin="7dp"
+                android:background="@drawable/buttonstyle2"
+                android:textColor="@color/white"
+                android:text="@string/forgotPassword"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="0dp"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="0dp"
+                android:padding="10dp"
+                android:src="@drawable/tamillogo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login"
+                android:layout_marginBottom="15dp"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/emailID"
+                android:drawablePadding="10dp"
+                android:layout_height="wrap_content"
+                android:layout_width="350dp"
+                android:drawableLeft="@drawable/email"
+                android:hint="@string/email"
+                android:background="@drawable/bottomstyle"
+                android:inputType="textEmailAddress"/>
+
+            <EditText
+                android:id="@+id/passcode"
+                android:drawablePadding="10dp"
+                android:layout_height="wrap_content"
+                android:layout_width="350dp"
+                android:layout_marginTop="4dp"
+                android:drawableLeft="@drawable/password"
+                android:hint="@string/password"
+                android:background="@drawable/bottomstyle"
+                android:inputType="textPassword"/>
+
+           <!-- <Button
+                android:id="@+id/signin"
+                android:layout_height="wrap_content"
+                android:layout_width="150dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/buttonstyle1"
+                android:textColor="@color/white"
+                android:text="@string/signin"/> -->
+
+            <com.spark.submitbutton.SubmitButton
+                android:id="@+id/signin"
+                android:layout_width="53dp"
+                android:layout_height="1dp"
+                android:text="@string/signin"
+                android:textColor="@color/gray"
+                app:sub_btn_background="@color/white"
+                app:sub_btn_duration="3000"
+                android:textSize="11dp"
+                android:layout_marginTop="20dp"
+                app:sub_btn_line_color="@color/green"
+                app:sub_btn_ripple_color="@color/green"
+                app:sub_btn_tick_color="@color/white" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="10dp"
+                android:background="@color/lightgray" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
