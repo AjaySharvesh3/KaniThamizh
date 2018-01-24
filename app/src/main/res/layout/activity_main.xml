@@ -87,7 +87,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="@string/kuralkal"
+                            android:text="@string/kalangal"
                             android:textStyle="bold" />
 
                         <View
@@ -132,7 +132,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="@string/athikaram"
+                            android:text="@string/mannargal"
                             android:textStyle="bold" />
 
                         <View
@@ -186,7 +186,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="@string/varalaru"
+                            android:text="@string/aatchi"
                             android:textStyle="bold" />
 
                         <View
@@ -231,7 +231,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="@string/settings"
+                            android:text="@string/poorkal"
                             android:textStyle="bold" />
 
                         <View
@@ -245,7 +245,7 @@
                             android:layout_height="wrap_content"
                             android:gravity="center"
                             android:padding="5dp"
-                            android:text="@string/settings1"
+                            android:text="@string/poorkal1"
                             android:textColor="@android:color/darker_gray" />
 
                     </LinearLayout>

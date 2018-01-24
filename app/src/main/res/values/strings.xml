@@ -23,33 +23,81 @@
     <string name="settings"><![CDATA[அமைப்புகள்]]></string>
     <string name="settings1"><![CDATA[Settings]]></string>
     <string name="settings2"><![CDATA[The setting is both the time and geographic location within a narrative or within a work of fiction. A literary element, the setting helps initiate the main backdrop and mood for a story. Setting has been referred to as story world [1] or milieu to include a context (especially society) beyond the immediate surroundings of the story. Elements of setting may include culture, historical period, geography, and hour. Along with the plot, character, theme, and style, setting is considered one of the fundamental components of fiction.]]></string>
-    <string name="settings3"><![CDATA[Options]]></string>
     <string name="settings4"><![CDATA[Radio Button]]></string>
     <string name="settings5"><![CDATA[Check Box]]></string>
     <string name="settings6"><![CDATA[Done]]></string>
     <string name="settings7"><![CDATA[Enable Night Mode]]></string>
     <string name="settings8"><![CDATA[Night Mode]]></string>
 
-    <string name="kuralkal"><![CDATA[குறள்கள்]]></string>
-    <string name="kuralkal1"><![CDATA[Kuralgal]]></string>
+    <string name="kalangal"><![CDATA[தமிழர் காலம்]]></string>
+    <string name="kuralkal1"><![CDATA[Thamizhar Kaalam]]></string>
 
-    <string name="athikaram"><![CDATA[அதிகாரங்கள்]]></string>
-    <string name="athikaram1"><![CDATA[Athikarangal]]></string>
+    <string name="mannargal"><![CDATA[மன்னர்கள்]]></string>
+    <string name="athikaram1"><![CDATA[Kings]]></string>
 
-    <string name="varalaru"><![CDATA[வரலாறு]]></string>
-    <string name="varalaru1"><![CDATA[History]]></string>
+    <string name="aatchi"><![CDATA[அரசாட்சி]]></string>
+    <string name="varalaru1"><![CDATA[Government]]></string>
+
+    <string name="poorkal"><![CDATA[போர்கள்]]></string>
+    <string name="poorkal1"><![CDATA[Wars]]></string>
 
     <string name="signout"><![CDATA[வெளியேறு]]></string>
     <string name="signout1"><![CDATA[Sign out]]></string>
 
-    <string name="araththupal"><![CDATA[அறத்துப்பால்]]></string>
-    <string name="porutpal"><![CDATA[பொருட்பால்]]></string>
-    <string name="kamathupal"><![CDATA[காமத்துப்பால்]]></string>
+    <string name="text0"><![CDATA[தமிழர் வரலாற்றுக் காலக்கோடு]]></string>
+    <string name="text1"><![CDATA[தமிழர் வரலாற்றுக் காலக்கோடு என்பது கிமு 2000 -ல் தொடங்கி இன்று வரையுள்ள தமிழர்களின் முக்கிய வரலாற்று நிகழ்வுகளைச் சுட்டிக் காட்டுகின்றது. வரலாற்றுக்கு முந்திய காலம், சங்க காலம் முதல் இன்றைய இருபத்தோராம் நூற்றாண்டு வரை தமிழர்களின் ஆட்சி, அரசியல், மொழி, தமிழர்களை ஆண்டோர், இன்னல்கள் என முக்கிய நிகழ்வுகளைச் சுட்டி, தமிழகம், ஈழம், மலேசியா, சிங்கப்பூர், தென் ஆப்பிரிக்கா மற்றும் புலம் பெயர் தமிழர்கள் என விரிவடைந்து முக்கிய நிகழ்வுகளைக் கோடிட்டுக் காட்டுகின்றது இக் காலக்கோடு. கல்லாயுதங்களைப் பயன்படுத்திய தமிழர்கள் முதல் கணினியைப் பயன்படுத்தும் இக்காலத் தமிழர்கள் வரை அவர்களின் இன்பங்களையும் துன்பங்களையும், வெற்றிகளையும் தோல்விகளையும், ஏற்றங்களையும் இறக்கங்களையும் அறிய தமிழர் வரலாற்றுக் காலக்கோடு பயன்படுகிறது.]]></string>
 
-    <string name="kuralOne"><![CDATA[குறள் #1: ]]></string>
+    <string name="text2"><![CDATA[வரலாற்றுக்கு முந்திய காலம்]]></string>
 
-    <string name="tamilArtham"><![CDATA[பொருளின் தமிழ்: ]]></string>
+    <string name="text3"><![CDATA[முற்சங்க காலம்]]></string>
 
-    <string name="araththupalKuralOne"><![CDATA[அகர முதல எழுத்தெல்லாம் ஆதி]]>\n<![CDATA[பகவன் முதற்றே உலகு]]></string>
-    <string name="kural1tamil"><![CDATA[]]></string>
+    <string name="text4"><![CDATA[சங்ககாலம்]]></string>
+
+    <string name="text5"><![CDATA[வணிக காலம்]]></string>
+
+    <string name="text6"><![CDATA[சங்ககாலத்திற்கு பின்னான காலம்]]></string>
+
+    <string name="list1">
+        <li><![CDATA[சுமார் கி.மு. 3000 - 1400 - பையம்பள்ளியில் புதிய கற்காலம்]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 2,000 - 300 - தமிழகத்தின் இரும்புக்காலம்]]></li>
+    </string>
+
+    <string name="list2">
+        <li><![CDATA[சுமார் 1,000-300 கி.மு.- பெருங்கற்காலம்]]></li>\n
+        <li><![CDATA[சுமார் 600 கி.மு.- தமிழ்ப் பிராமி நடைமுறைத் தமிழ் எழுத்தாகியது.]]></li>\n
+        <li><![CDATA[சுமார் 500 கி.மு.- தமிழ் இலக்கண நூல் தொல்காப்பியம் தொல்காப்பியரால் எழுதப்படுகிறது]]></li>
+    </string>
+
+    <string name="list3">
+        <li><![CDATA[சுமார் கி.மு. 500 - சங்ககாலப் பாண்டியர்களால் தமிழக முத்திரைக் காசுகள் வெளியிடப்பட்டன.]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 300 - மெகஸ்தெனஸ் இந்தியா வருகை. பண்டையா என்னும் அரசி பாண்டியர் நாட்டை ஆண்டதாகக் குறிப்பு.]]></li>\n
+        <li><![CDATA[சுமார் 250 கி.மு. - அசோகர் கல்வெட்டு தமிழகத்தின் நான்கு பேரரசுகள் (சேரர், சோழர், பாண்டியர், வேளிர்) பற்றிப் பதிகின்றது]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 200 - நெடுஞ்செழியன் என்னும் பாண்டிய மன்னனின் ஆட்சியில் சமண மதம் தமிழகத்தில் ஆதரிக்கப்படுகிறது.]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 145 - இலங்கையில் தமிழ் மன்னன் எல்லாளன் ஆட்சியும் துட்டகைமுனுவுடனான போரும்.]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 200 - கி.பி. 200 - சங்க இலக்கிய நூல்கள் சங்ககாலத்தில் உருவாக்கப்பட்டன.]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 150 - தமிழ் அரசர்களின் கூட்டாட்சியை வெற்றி கொண்டதாக கலிங்க நாட்டு அரசன் கதிகும்பம் எனும் கல்வெட்டில் பதிகிறான்]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 130- சேர அரசன் உதியஞ்சேரலாதன் சேர நாட்டை ஆள்கிறான்]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 175-195- இலங்கை அரசன் கஜபாகு காலத்தில் சேரன் செங்குட்டுவன் மற்றும் கரிகால் சோழன் ஆள்கின்றனர்]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 190- சேர நாட்டை சேர அந்துவஞ்சேரல் இரும்பொறை ஆள்கிறான்]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 190- சேர நாட்டை சேர அந்துவஞ்சேரல் இரும்பொறை ஆள்கிறான்]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 200- எழுத்து பரவலாகி, தமிழ் பிராமியானது தமிழ் எழுத்தின் முன்னோடியாகி வட்டெழுத்தைத் தோற்றுவிக்கிறது]]></li>\n
+        <li><![CDATA[சுமார் கி.மு. 60 - நிகோலசு தமாசுகசு மற்றும் ஸ்ட்ரேபோ மதுரையை ஆண்ட பாண்டிய மன்னன் ஒருவன் அகஸ்டஸ் மன்னனுக்குத் தூதனுப்பியதாகக் குறித்தனர்.]]></li>
+    </string>
+
+    <string name="list4">
+        <li><![CDATA[சுமார் 1 - 140 - பிலினி மற்றும் தாலமி மதுரையை பாண்டிய மன்னன் ஆண்டதாகக் குறித்தனர்.]]></li>\n
+        <li><![CDATA[சுமார் 190 - சாவகம் எனும் தீவில் தமிழ் பேசப்பட்டது.]]></li>\n
+        <li><![CDATA[சுமார் 340 - குப்தப் பேரரசு தென்னிந்தியாவை நோக்கி படையெடுத்தல். முதலாம் விட்ணுகோபன் சமுத்திர குப்தனால் தோற்கடிக்கப்பட்டதால் தொண்டை நாடு முழுதும் களப்பிரர் கீழிருந்த சோழர்களால் ஆக்கிரமிக்கப்படுதல்.]]></li>\n
+        <li><![CDATA[சுமார் 250 - சீன நாட்டு வரலாற்றறிஞர் சுவான்சாங் ,பாண்டியர் அரசாங்கத்தை பாண்யுவி எனக் குறித்தார். பாண்டிய மக்கள் சீனர்களைப் போலவே சிறிய உயரம் படைத்திருந்தனர் எனக் கூறியுள்ளார்.]]></li>
+    </string>
+
+    <string name="list5">
+        <li><![CDATA[சுமார் 300-325 - சிவகந்தவர்மன் காஞ்சியைத் தலைநகராகக் கொண்டு பல்லவர் அரசைத் தமிழகத்தில் தொடங்கி வைத்தல்.]]></li>\n
+        <li><![CDATA[சுமார் 300-590 - களப்பிரர் தமிழ் நாட்டின் மீது படையெடுத்துப் பாரம்பரிய ஆட்சியை மாற்றுகின்றனர்]]></li>\n
+        <li><![CDATA[சுமார் 1 - 200 - முதல் இரண்டு நூற்றாண்டுகளில் தமிழர் யவனர்களோடு சிறந்த வணிகவுறவு வைத்திருந்தனர்.செங்கடல் செலவு என்னும் கிரேக்க வணிக நூலேட்டில் மூவேந்தர் துறைமுகங்களான நறவு, தொண்டி, முசிறி, நீலகண்ட நகரம், கொற்கை, அழகன்குளம், காலப்பட்டினம், பாண்டிச்சேரி, எயிற்பட்டினம் போன்றவை சிறந்த துறைமுகங்களாக இருந்ததாகப் பெரிப்ளுசு கூறுகிறார்.]]></li>\n
+        <li><![CDATA[சுமார் 361 - ரோமானியப் பேரரசனான சூலியனுக்கு பாண்டியர் தூதனுப்புதல்.]]></li>\n
+        <li><![CDATA[சுமார் 436-463 - களப்பிரர் ஆட்சியில் தமிழகத்திலிருந்து இலங்கை சென்ற பாண்டிய மன்னர்கள், இராசராட்டிரம் என்னும் அரசை ஏற்படுத்தி ஆண்டனர்.]]></li>\n
+        <li><![CDATA[சுமார் 436 - 460 - பல்லவன் இரண்டாம் கந்தவர்மன் என்பவனின் மூன்று மகன்களும் பல்லவ அரசை வடதமிழகம் முழுதும் விரிவுபடுத்தினர். அதில் மூன்றாம் மகனான இரண்டாம் குமாரவிட்ணு களப்பிரர் கீழிருந்த சோழர்களின் ஆதிக்கத்திலிருந்த காஞ்சியை மீட்கிறான்.]]></li>
+    </string>
+
 </resources>

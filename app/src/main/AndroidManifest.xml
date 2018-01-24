@@ -22,16 +22,8 @@
         <activity android:name=".Menus.MainActivity" />
         <activity android:name=".Registrations.RegisterActivity" />
         <activity android:name=".Registrations.ResetPasscodeActivity" />
-        <activity
-            android:name=".Thirukuralkal"
-            android:theme="@style/AppThemeOne" />
-        <activity
-            android:name=".SettingsActivity"
-            android:theme="@style/AppThemeOne" />
-        <activity
-            android:name=".Athikarankal"
-            android:theme="@style/AppThemeOne" />
-        <activity android:name=".KadavulValuthu"></activity>
+        <activity android:name=".Kalangal"
+            android:theme="@style/AppThemeOne" ></activity>
     </application>
 
 </manifest>

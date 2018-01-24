@@ -11,10 +11,9 @@ import android.widget.Toast;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
+import alphawolf.wolfpack.ajaysharvesh.kanithamizh.Kalangal;
 import alphawolf.wolfpack.ajaysharvesh.kanithamizh.R;
 import alphawolf.wolfpack.ajaysharvesh.kanithamizh.Registrations.LoginActivity;
-import alphawolf.wolfpack.ajaysharvesh.kanithamizh.SettingsActivity;
-import alphawolf.wolfpack.ajaysharvesh.kanithamizh.Thirukuralkal;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
@@ -56,7 +55,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Intent i;
         switch (v.getId()) {
             case R.id.bankcardId:
-                i = new Intent(MainActivity.this, Thirukuralkal.class);
+                i = new Intent(MainActivity.this, Kalangal.class);
                 startActivity(i);
                 break;
 
@@ -69,12 +68,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
 
             case R.id.settings:
-                i = new Intent(MainActivity.this, SettingsActivity.class);
-                startActivity(i);
                 break;
 
             case R.id.wifiCard:
-                signOut() ; break ;
+                signOut() ;
+                break ;
 
             default: break;
         }
@@ -90,10 +88,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     // user auth state is changed - user is null
                     // launch login activity
                     startActivity(new Intent(MainActivity.this, LoginActivity.class));
-                    //finish();
+                    finish();
                 }
             }
         };
     }
-
 }
